@@ -17,6 +17,14 @@ a:hover
 {
     display: inline;
     margin-left: 10px;
+    padding: 5px;
+    font-size: 13px;
+}
+
+.horizontal-list
+{
+    display: flex;
+    align-items: center;
 }
 
 header
