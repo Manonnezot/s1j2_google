@@ -54,7 +54,12 @@ a
     background-color: #1a73e8;
     padding: 10px 20px;
     border-radius: 7px;
-    color: white
+    color: white;
+}
+
+#co:hover
+{
+    background-color: #1858ac;
 }
 
 .main
